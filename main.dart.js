@@ -59733,12 +59733,12 @@ n=i.r
 n===$&&A.b()
 m=i.x
 m===$&&A.b()
-n=A.a0t(A.aa8(A.FS("1 second passes for 61320 seconds on Miller's planet, or 17 hours and 2 minutes",A.hR(h,h,B.i,h,h,h,h,h,g,h,h,64,h,h,B.dz,h,1,!0,h,h,h,h,h,h,h,h),B.aX),m),n,h,!0)
+n=A.a0t(A.aa8(A.FS("On Miller's planet, 1 second equals 61320 seconds on Earth\u2014around 17 hours and 2 minutes.",A.hR(h,h,B.i,h,h,h,h,h,g,h,h,64,h,h,B.dz,h,1,!0,h,h,h,h,h,h,h,h),B.aX),m),n,h,!0)
 m=i.w
 m===$&&A.b()
 l=i.y
 l===$&&A.b()
-k=A.FS("If you'd spent all this time since Interstellar's release on Miller's planet, on Earth it would be",A.hR(h,h,B.i,h,h,h,h,h,g,h,h,48,h,h,B.dA,h,1,!0,h,h,h,h,h,h,h,h),B.aX)
+k=A.FS("If you had spent all the time since Interstellar's release on Miller's planet, the current Earth date would be:",A.hR(h,h,B.i,h,h,h,h,h,g,h,h,48,h,h,B.dA,h,1,!0,h,h,h,h,h,h,h,h),B.aX)
 j=i.as
 p=A.nE(A.a([p,A.nE(A.a([n,B.en,A.a0t(A.aa8(A.nE(A.a([k,B.uX,A.FS(j,A.hR(h,h,B.i,h,h,h,h,h,g,h,h,64,h,h,B.dz,h,1,!0,h,h,h,h,h,h,h,h).HU(80),B.aX)],o),B.ai,B.aS),l),m,h,!0),B.Kw],o),B.ai,B.oW)],o),B.ai,B.fJ)
 s=A.cC(a,B.c5,s).w
